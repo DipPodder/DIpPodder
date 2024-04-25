@@ -9,8 +9,7 @@ Eager to contribute and learn in a professional environment, I'm actively seekin
 
 ### 🧰 Languages and Tools
 
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="![image](https://github.com/DipPodder/DIpPodder/assets/96014294/8f43217b-9062-4fef-bdb9-ea00a92095a5)
-"/>
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css"/>
 <img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
