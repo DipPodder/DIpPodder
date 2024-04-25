@@ -1,35 +1,10 @@
-# Skills
+# Introduction
+Hey there, I'm Dip Podder! Two years ago, my journey began shaping narratives and exploring creativity as a content creator on YouTube and Facebook. Today, I'm embarking on a path fueled by a burgeoning passion for Artificial Intelligence and Machine Learning, transitioning into a Python programmer.
 
-## Programming Languages
-- **Python:** Proficient in developing applications, web scraping, data analysis, and automation.
-- **JavaScript:** Experienced in building dynamic web applications using modern frameworks like React.js.
+With six months of immersive coding experience, I've honed my skills in Python and familiarized myself with tools like VS Code. My background in physics equips me with a robust understanding of algorithms and mathematics, serving as a strong foundation for my coding journey.
 
-## Machine Learning & AI
-- **Machine Learning:** Skilled in developing machine learning models for various applications, including classification, regression, and clustering tasks.
-- **Deep Learning:** Experience with deep neural networks and frameworks such as TensorFlow and PyTorch.
-- **Natural Language Processing (NLP):** Proficient in NLP techniques for tasks such as sentiment analysis, named entity recognition, and text generation.
+My true thrill lies in problem-solving and delving into the intricacies of the quantum world, complemented by occasional indulgences in adrenaline-pumping thrillers or heartwarming romance films.
 
-## Technologies
-- **Docker:** Experienced in containerization for deploying applications in isolated environments.
-- **Linux:** Proficient in using Linux distributions like Ubuntu, Arch Linux, Fedora, and Linux Mint for development and server management.
+Eager to contribute and learn in a professional environment, I'm actively seeking an internship opportunity with a dynamic startup or established company. I aim to learn from seasoned developers, make meaningful contributions to challenging projects, and further my growth as an AI & ML enthusiast.
 
-## Frameworks & Libraries
-- **React.js:** Experience in building single-page applications with React Router and managing state with Redux.
-- **Django:** Proficient in building robust web applications using Django framework with Django REST Framework.
-- **Flask:** Experience in building lightweight web applications and RESTful APIs with Flask framework.
-- **Bootstrap:** Proficient in using Bootstrap for front-end development to create responsive and mobile-first designs.
 
-## Tools
-- **VS Code:** Proficient in using Visual Studio Code as the primary IDE for coding tasks.
-- **Jupyter Notebook:** Experience in data analysis and visualization using Jupyter notebooks with Python.
-- **Postman:** Proficient in testing APIs and documenting endpoints using Postman.
-- **Trello:** Experience in project management and task tracking using Trello boards.
-
-## Soft Skills
-- **Communication:** Excellent written and verbal communication skills, demonstrated through documentation and team collaboration.
-- **Problem-solving:** Strong analytical skills with a knack for finding creative solutions to complex problems.
-- **Teamwork:** Collaborative approach towards working in teams, with a focus on achieving shared goals.
-
-- **Communication:** Excellent written and verbal communication skills, demonstrated through documentation and team collaboration.
-- **Problem-solving:** Strong analytical skills with a knack for finding creative solutions to complex problems.
-- **Teamwork:** Collaborative approach towards working in teams, with a focus on achieving shared goals.
