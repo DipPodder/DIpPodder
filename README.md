@@ -3,14 +3,15 @@
 ## Programming Languages
 - **Python:** Proficient in developing applications, web scraping, data analysis, and automation.
 - **JavaScript:** Experienced in building dynamic web applications using modern frameworks like React.js.
-- **Java:** Solid understanding of object-oriented programming principles and experience with Android development.
-- **HTML/CSS:** Proficient in building responsive and visually appealing web pages.
+
+## Machine Learning & AI
+- **Machine Learning:** Skilled in developing machine learning models for various applications, including classification, regression, and clustering tasks.
+- **Deep Learning:** Experience with deep neural networks and frameworks such as TensorFlow and PyTorch.
+- **Natural Language Processing (NLP):** Proficient in NLP techniques for tasks such as sentiment analysis, named entity recognition, and text generation.
 
 ## Technologies
-- **Git:** Proficient in version control, including branching, merging, and collaborating on GitHub repositories.
-- **SQL:** Experience in designing and querying relational databases using MySQL and SQLite.
-- **Docker:** Familiar with containerization for deploying applications in isolated environments.
-- **AWS:** Basic knowledge of cloud services including EC2, S3, and Lambda functions.
+- **Docker:** Experienced in containerization for deploying applications in isolated environments.
+- **Linux:** Proficient in using Linux distributions like Ubuntu, Arch Linux, Fedora, and Linux Mint for development and server management.
 
 ## Frameworks & Libraries
 - **React.js:** Experience in building single-page applications with React Router and managing state with Redux.
@@ -25,6 +26,10 @@
 - **Trello:** Experience in project management and task tracking using Trello boards.
 
 ## Soft Skills
+- **Communication:** Excellent written and verbal communication skills, demonstrated through documentation and team collaboration.
+- **Problem-solving:** Strong analytical skills with a knack for finding creative solutions to complex problems.
+- **Teamwork:** Collaborative approach towards working in teams, with a focus on achieving shared goals.
+
 - **Communication:** Excellent written and verbal communication skills, demonstrated through documentation and team collaboration.
 - **Problem-solving:** Strong analytical skills with a knack for finding creative solutions to complex problems.
 - **Teamwork:** Collaborative approach towards working in teams, with a focus on achieving shared goals.
