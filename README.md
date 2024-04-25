@@ -31,7 +31,6 @@ Eager to contribute and learn in a professional environment, I'm actively seekin
             <li><i class="fab fa-js"></i> JavaScript: Experienced in building dynamic web applications.</li>
         </ul>
     </div>
-
     <div class="skill">
         <h2>Machine Learning & AI</h2>
         <ul>
@@ -40,7 +39,6 @@ Eager to contribute and learn in a professional environment, I'm actively seekin
             <li><i class="fas fa-comment-alt"></i> Natural Language Processing (NLP): Proficient in NLP techniques for tasks such as sentiment analysis, named entity recognition, and text generation.</li>
         </ul>
     </div>
-
     <div class="skill">
         <h2>Technologies</h2>
         <ul>
@@ -48,7 +46,6 @@ Eager to contribute and learn in a professional environment, I'm actively seekin
             <li><i class="fab fa-linux"></i> Linux: Proficient in using Linux distributions like Ubuntu, Arch Linux, Fedora, and Linux Mint for development and server management.</li>
         </ul>
     </div>
-
     <div class="skill">
         <h2>Frameworks & Libraries</h2>
         <ul>
@@ -56,7 +53,6 @@ Eager to contribute and learn in a professional environment, I'm actively seekin
             <li><i class="fab fa-python"></i> Flask: Experience in building lightweight web applications and RESTful APIs with Flask framework.</li>
         </ul>
     </div>
-
     <div class="skill">
         <h2>Tools</h2>
         <ul>
@@ -66,7 +62,6 @@ Eager to contribute and learn in a professional environment, I'm actively seekin
             <li><i class="fab fa-trello"></i> Trello: Experience in project management and task tracking using Trello boards.</li>
         </ul>
     </div>
-
     <div class="skill">
         <h2>Soft Skills</h2>
         <ul>
