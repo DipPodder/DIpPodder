@@ -1,11 +1,5 @@
 # Introduction
-Hey there, I'm Dip Podder! Two years ago, my journey began shaping narratives and exploring creativity as a content creator on YouTube and Facebook. Today, I'm embarking on a path fueled by a burgeoning passion for Artificial Intelligence and Machine Learning, transitioning into a Python programmer.
-
-With six months of immersive coding experience, I've honed my skills in Python and familiarized myself with tools like VS Code. My background in physics equips me with a robust understanding of algorithms and mathematics, serving as a strong foundation for my coding journey.
-
-My true thrill lies in problem-solving and delving into the intricacies of the quantum world, complemented by occasional indulgences in adrenaline-pumping thrillers or heartwarming romance films.
-
-Eager to contribute and learn in a professional environment, I'm actively seeking an internship opportunity with a dynamic startup or established company. I aim to learn from seasoned developers, make meaningful contributions to challenging projects, and further my growth as an AI & ML enthusiast.
+Greetings, I'm Dip Podder. My professional journey commenced as a content creator on platforms like YouTube and Facebook. However, my fervor for Artificial Intelligence and Machine Learning has steered me towards Python programming. Armed with six months of coding experience and a solid foundation in mathematics, I'm keen on contributing to impactful projects in AI & ML. Presently, I am actively pursuing internship opportunities to refine my skills and make meaningful strides in the field.
 
 ### 💻 Languages and Tools
 
