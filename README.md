@@ -7,7 +7,7 @@ My true thrill lies in problem-solving and delving into the intricacies of the q
 
 Eager to contribute and learn in a professional environment, I'm actively seeking an internship opportunity with a dynamic startup or established company. I aim to learn from seasoned developers, make meaningful contributions to challenging projects, and further my growth as an AI & ML enthusiast.
 
-### 🧰 Languages and Tools
+### 🧑‍💻 Languages and Tools
 
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
 <img align="left" alt="Javasript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
