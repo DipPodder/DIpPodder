@@ -1,6 +1,5 @@
 # Introduction
-Greetings, I'm Dip Podder. My professional journey commenced as a content creator on platforms like YouTube and Facebook. However, my fervor for Artificial Intelligence and Machine Learning has steered me towards Python programming. Armed with six months of coding experience and a solid foundation in mathematics, I'm keen on contributing to impactful projects in AI & ML. Presently, I am actively pursuing internship opportunities to refine my skills and make meaningful strides in the field.
-
+Greetings, I'm Dip Podder. 
 ### 💻 Languages and Tools
 
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
